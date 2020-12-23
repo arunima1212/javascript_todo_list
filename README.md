@@ -1,2 +1,2 @@
 # javascript_todo_list
-1st javascript project
+This is the first javascript project.
